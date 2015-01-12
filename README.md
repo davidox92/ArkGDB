@@ -1,2 +1,2 @@
 # ArkGDB
-Deutsche Übersetzungen Arkainia DB
+Deutsche Übersetzungen Arkania DB
